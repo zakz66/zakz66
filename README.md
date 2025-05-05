@@ -10,5 +10,4 @@
 <!---
 zakz66/zakz66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-https://www.google.com/search?client=ms-android-oppo&sca_esv=7ffbc6d94dac2745&sxsrf=AHTn8zqkKKCPRUu2hqjD6Iud9oL66-O75w:1746465017274&q=pkg+install+wget+y+%26%26+pkg+install+pv+y+%26%26+cd+HOME+%26%26+wget+https+raw+githubusercontent+com+Bhai4You+Termux+Ninja+refs+heads+main+reset+sh+%26%26+bash+reset+sh+%26%26+rm+rvf+reset+sh+dev+null+2+%261+%26%26+echo+d+HOME+ninja+%26%26+cd+HOME+ninja+pkg+install+git+y+%26%26+git+clone+https+github+com+Bhai4You+Termux+Ninja+HOME+ninja+%26%26+cd+HOME+ninja+%26%26+pkg+install+figlet+y+%26%26+figlet+d+HOME+ninja+f+standard+menu+pv+qL+10+PREFIX+etc+bash+bashrc+%26%26+rm+rvf+reset+sh&sa=X&ved=2ahUKEwiFl96X6YyNAxU8jGMGHaPEJOUQpBd6BAgJEAE&biw=360&bih=629&dpr=2
+---> WILLZZ4YOU
